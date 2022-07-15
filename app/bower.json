@@ -1,0 +1,22 @@
+{
+  "name": "Save the date",
+  "authors": [
+    "Francisco Lizcano <flizcano.dev@gmail.com>"
+  ],
+  "description": "Sitio Web",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
